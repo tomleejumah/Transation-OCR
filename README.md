@@ -1,6 +1,5 @@
-# TranslateOCRApp
+# TranslateOCRApp: 
 
-<<<<<<< HEAD
 TranslateOCRApp is an Android application that allows users to click pictures of Swedish and German text and translate
 them into english
 =======
@@ -49,4 +48,4 @@ Contributions to the TranslateOCRApp are welcome! If you find any issues or want
 ## License
 
 The TranslateOCRApp is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
->>>>>>> 5843c3f (initial commit)
+
